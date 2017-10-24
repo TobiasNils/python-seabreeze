@@ -12,35 +12,27 @@ Just run MyLabOptica_Qt.py using python3:
 python3 Directory_containing/MyLabOptica_Qt.py
 ```
 
+
 ## Supported Devices
 
-| Spectrometer | cseabreeze | pyseabreeze |
-|:-------------|:----------:|:-----------:|
-| HR2000       |     x      |      x      |
-| HR2000PLUS   |     x      |      x      |
-| HR4000       |     x      |      x      |
-| JAZ          |     x      |      x      |
-| MAYA2000     |     x      |      x      |
-| MAYA2000PRO  |     x      |      x      |
-| MAYALSL      |     x      |      x      |
-| NIRQUEST256  |     x      |      x      |
-| NIRQUEST512  |     x      |      x      |
-| QE65000      |     x      |      x      |
-| QE-PRO       |     x      |      x      |
-| STS          |     x      |      x      |
-| TORUS        |     x      |      x      |
-| USB2000      |     x      |      x      |
-| USB2000PLUS  |     x      |      x      |
-| USB4000      |     x      |      x      |
-| USB650       |            | [Issue #47](https://github.com/ap--/python-seabreeze/issues/47) |
-| SPARK        |     x      |             |
+| Spectrometer | cseabreeze | 
+|:-------------|:----------:|
+| HR4000       |     x      |
+| MAYA2000     |     x      | 
+| MAYA2000PRO  |     x      | 
+| NIRQUEST256  |     x      | 
+| NIRQUEST512  |     x      |
+| QE65000      |     x      |
+| QE-PRO       |     x      | 
+| USB2000      |     x      | 
+| USB2000PLUS  |     x      | 
+| Flame        |     x      |
 
 
 ## Known Issues
 
-- USB2000 spectrometers cause `Data transfer error` due to old firmware [Issue #48](https://github.com/ap--/python-seabreeze/issues/48)
-- USB650 not supported [Issue #47](https://github.com/ap--/python-seabreeze/issues/47)
 - No conda packages for armv6 (RPI version 1) [Issue #46](https://github.com/ap--/python-seabreeze/issues/46)
+
 
 ## Contributing Guidelines
 
