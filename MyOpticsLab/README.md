@@ -8,6 +8,7 @@ These python classes make use of [python-seabreeze](https://github.com/ap--/pyth
 ## Usage
 
 Recommended use is via the [Spyder-IDE](https://github.com/spyder-ide) using python3.x
+
 After executing MyOpticsLab.py with
 ```
 >>> runfile(MyOpticsLab.py)
