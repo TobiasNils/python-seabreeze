@@ -1,4 +1,4 @@
-# Python module for [Ocean Optics](http://www.oceanoptics.com/) spectrometers
+# Python modules for unified laboratory device control
 
 [![Github All Releases](https://img.shields.io/github/downloads/ap--/python-seabreeze/total.svg?style=flat-square)](https://github.com/ap--/python-seabreeze/releases)
 [![GitHub issues](https://img.shields.io/github/issues/ap--/python-seabreeze.svg?style=flat-square)](https://github.com/ap--/python-seabreeze/issues)
