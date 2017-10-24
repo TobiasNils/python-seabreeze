@@ -144,6 +144,9 @@ info.)
 >>> seabreeze.use('pyseabreeze')
 >>> import seabreeze.spectrometers as sb
 ```
+# Examples
+
+Some examples of implementation, including an example of a [graphical front-end](https://github.com/TobiasNils/python-seabreeze/tree/application/MyLabOptica/Graphical%20Frontend), are provided under [/MyOpticsLab](https://github.com/TobiasNils/python-seabreeze/tree/application/MyLabOptica). 
 
 ## Supported Devices
 
