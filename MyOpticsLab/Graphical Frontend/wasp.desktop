@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=wasp
+Comment=WASP Software for Data Acquisition
+Exec=python3 /home/nils/Documents/Free-Software/Python/GuiBuilding/Qt/WASP/MyLabOptica_Qt.py
+Icon=/home/nils/Documents/Free-Software/Python/GuiBuilding/Qt/WASP/wasp.png
+Terminal=false
