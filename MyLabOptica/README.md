@@ -7,7 +7,7 @@ This Graphical frontend is based on [python-seabreeze](https://github.com/ap--/p
 
 ## Usage
 
-Recommended use is via the [Spyder-IDE] using python3.x
+Recommended use is via the [Spyder-IDE](https://github.com/spyder-ide) using python3.x
 After executing MyOpticsLab.py with
 ```
 >>> runfile(MyOpticsLab.py)
