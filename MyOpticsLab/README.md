@@ -3,7 +3,7 @@
 [![Github All Releases](https://img.shields.io/github/downloads/ap--/python-seabreeze/total.svg?style=flat-square)](https://github.com/ap--/python-seabreeze/releases)
 [![GitHub issues](https://img.shields.io/github/issues/ap--/python-seabreeze.svg?style=flat-square)](https://github.com/ap--/python-seabreeze/issues)
 
-This Graphical frontend is based on [python-seabreeze](https://github.com/ap--/python-seabreeze) and [PyQtGraph](https://github.com/pyqtgraph/pyqtgraph) and was designed with the open source version of [Qt designer](https://info.qt.io/download-qt-for-application-development).
+These python classes make use of [python-seabreeze](https://github.com/ap--/python-seabreeze) to control [Ocean Optics](http://www.oceanoptics.com/) spectrometers and implement an adapted version of [Micos.py](https://gist.github.com/pklaus/3955382) to control the [Corvus Eco](https://www.physikinstrumente.com/en/products/controllers-and-drivers/motion-controllers-for-motor-screw-drives/smc-corvus-eco-smc-series-1204800/) microstep-controller system by [PI|Micos](https://www.physikinstrumente.com/en/) with the aim to create a unified platform for laboratory use. 
 
 ## Usage
 
